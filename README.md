@@ -9,8 +9,7 @@
 * Check the About section for a brief history about the Chef
 * Select Gallery to see a sample of cake designs available, depending on the occasion.
 * Call or Email the Chef with your selection and any other comments, specific to the occasion.
-* Custom designs can also be made upon request
-* Voila!
+* Custom designs can also be made upon request.
 
 ## Setup
 * HTML
